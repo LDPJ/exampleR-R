@@ -20,15 +20,47 @@ showJSONInformation({
     ]
 });
 
+"CA": [
+  {
+    "time": "09.00",
+    "title": "In the morning"
+  },
+  {
+    "time": "1.00",
+    "title": "Until we"
+  },
+  {
+    "time": "6.00",
+    "title": "At night"
+  }...
 
+  "NY": [
+  {
+    "time": "09.00",
+    "title": "In the morning"
+  },
+  {
+    "time": "1.00",
+    "title": "Until we"
+  },
+  {
+    "time": "6.00",
+    "title": "At night"
+  }...
 
-
-
-
-
-
-
-
+"LDN": [
+  {
+    "time": "09.00",
+    "title": "In the morning"
+  },
+  {
+    "time": "1.00",
+    "title": "Until we"
+  },
+  {
+    "time": "6.00",
+    "title": "At night"
+  }...
 
 </body>
 </html>
