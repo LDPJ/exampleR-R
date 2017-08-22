@@ -11,7 +11,7 @@ $(function() {
   
   //
   function loadTimetable() {
-    $.getJSON('data/example.json')
+    $.getJSON('textdata.json')
     .done( function(data){
       times = data;
     }).fail( function() {
