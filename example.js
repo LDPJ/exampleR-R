@@ -13,7 +13,7 @@ $(function() {
   
   // Function That Collects Data From The JSON File
   function loadTimetable() {
-    $.getJSON('/textdata.json')
+    $.getJSON('https://ldpj.github.io/exampleR-R/textdata.json')
     .done( function(data){
       times = data;
     }).fail( function() {
