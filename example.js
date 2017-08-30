@@ -11,9 +11,9 @@ $(function() {
     }
   });
   
-  //
+  // Function That Collects Data From The JSON File
   function loadTimetable() {
-    $.getJSON('textdata.json')
+    $.getJSON('/textdata.json')
     .done( function(data){
       times = data;
     }).fail( function() {
