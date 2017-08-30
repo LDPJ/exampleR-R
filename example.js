@@ -33,7 +33,7 @@ $(function() {
     var new Content = '';
     for (var i = 0; i < times[loc].length; i++) {
       new Content += '<li><span class="time">' + times[loc][i].time + '</span>';
-      newContent += '<a href="https://ldpj.github.io/exampleR-R/descriptions.html#';
+      newContent += '<a href="descriptions.html#';
       newContent += times[loc][i].title.replace(/ /g, '-') + '">';
       newContent += times[loc][i].title + '</a></li>';
     }
