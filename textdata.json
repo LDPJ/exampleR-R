@@ -1,4 +1,4 @@
-<html>
+/* <html>
 <head><title><style></style></title></head>
 <body><script></script>
 
@@ -18,7 +18,7 @@ showJSONInformation({
       "Location": "Send me anywhere on God's green earth and I'll...bring back three .png files...muthasucka!"
     }...
     ]
-});
+}); */
 
 "CA": [
   {
@@ -61,6 +61,7 @@ showJSONInformation({
     "time": "6.00",
     "title": "At night"
   }...
-
+/* 
 </body>
 </html>
+*/
