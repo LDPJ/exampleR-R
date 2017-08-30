@@ -32,7 +32,7 @@ showJSONInformation({
   {
     "time": "6.00",
     "title": "At night"
-  }...
+  }
 
   "NY": [
   {
@@ -46,7 +46,7 @@ showJSONInformation({
   {
     "time": "6.00",
     "title": "At night"
-  }...
+  }
 
 "LDN": [
   {
@@ -60,7 +60,7 @@ showJSONInformation({
   {
     "time": "6.00",
     "title": "At night"
-  }...
+  }
 /* 
 </body>
 </html>
