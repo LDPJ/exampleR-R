@@ -1,24 +1,3 @@
-/* <html>
-<head><title><style></style></title></head>
-<body><script></script>
-
-// xhr.onload = function() {
-//  if(xhr.status === 200){
-//    Code to process the results from the 
-//  }
-// }
-
-<br>
-// JSONP
-showJSONInformation({
-  "list": [
-    {
-      "Produced": "Where did I saw that?",
-      "Record & Mixed": "The atmospheric pressure today was?",
-      "Location": "Send me anywhere on God's green earth and I'll...bring back three .png files...muthasucka!"
-    }...
-    ]
-}); */
 
 "CA": [
   {
@@ -61,7 +40,3 @@ showJSONInformation({
     "time": "6.00",
     "title": "At night"
   }
-/* 
-</body>
-</html>
-*/
